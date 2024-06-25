@@ -10,4 +10,4 @@
     </div>
 
  ⚠️ Apaixonada por tecnologia e jogos! 
-     👩🏽‍🎓  iniciante na área de programação .
+    
